@@ -1,0 +1,21 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/*-------------------------------------- slider Area --------------------  */
+.slider-section{
+    margin: 50px;
+}
+
+/* ---------------------------------Package Area ------------------------- */
+.package-area{
+    margin: 80px;
+    padding-top: 50px;
+}
+.hadding-area{
+    padding-bottom: 50px;
+}
+.card-3{
+  border: 5px rounded;
+  padding: 10px;
+  box-shadow: 5px 10px 8px 10px #888888;
+}
